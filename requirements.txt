@@ -1,0 +1,8 @@
+fastapi
+streamlit
+langchain
+ollama
+scikit-learn
+torch
+spacy
+nltk
